@@ -1,6 +1,3 @@
-using System.Collections.Generic;
-
-namespace Assignment;
 public static class Arrays
 {
     /// <summary>
